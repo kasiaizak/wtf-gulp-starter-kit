@@ -30,7 +30,7 @@
     "gh-pages": "^3.2.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
-    "gulp-babel": "^8.0.0",
+    "gulp-babel": "^8.1.0",
     "gulp-notify": "^5.0.0",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
